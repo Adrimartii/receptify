@@ -30,3 +30,18 @@ Receptify est une application web progressive (PWA) conçue pour vous aider à g
    cd receptify
    npm install
    expo start
+---
+
+### 🤝 Contribuer
+Les contributions sont les bienvenues !
+
+Ouvrez une issue pour signaler un bug ou proposer une amélioration.
+Forkez le projet, apportez vos modifications, puis soumettez une pull request.
+
+---
+
+### 📜 Licence
+Ce projet est distribué sous la licence MIT.
+
+Capture d'écran :
+
